@@ -1,0 +1,11 @@
+insightface
+onnxruntime
+opencv-python
+numpy
+torch
+torchvision
+huggingface_hub
+omegaconf
+pyyaml
+fvcore
+safetensors

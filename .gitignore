@@ -1,0 +1,16 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded model weights (re-downloaded automatically by adaface.py)
+models_cache/
+
+# Personal data: saved face embeddings and recordings
+faces_db.pkl
+*.mp4
+detected.jpg
+sample.jpg
+test.jpg
+
+.DS_Store
